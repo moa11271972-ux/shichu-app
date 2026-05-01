@@ -1,4 +1,4 @@
-# shichu-appimport React, { useMemo, useState } from "react";
+import React, { useMemo, useState } from "react";
 
 /*
   四柱推命アプリ App.jsx 完全単体版
